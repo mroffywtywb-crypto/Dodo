@@ -1,0 +1,8 @@
+{
+  "name": "داهود بت | DahoodBet",
+  "description": "پلتفرم پیش‌بینی ورزشی، کازینوی آنلاین و درگاه پرداخت مستقیم داهود بت",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
